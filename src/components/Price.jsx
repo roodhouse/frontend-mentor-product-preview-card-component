@@ -2,7 +2,7 @@ import React from 'react'
 
 function Price() {
   return (
-    <div id='priceWrapper' className='mb-5 flex items-center'>
+    <div id='priceWrapper' className='mb-5 flex items-center md:mb-[30px]'>
         <div id='salePrice' className='font-["Fraunces"] text-[32px] leading-[32px] text-deepAqua mr-[19px]'>
             <p>$149.99</p>
         </div>
