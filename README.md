@@ -23,7 +23,6 @@ Users should be able to:
 
 ### Screenshot
 
-### Screenshot
 #### mobile
 ![](/src/assets/images/mb.png)
 
@@ -33,7 +32,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [solution URL](https://github.com/roodhouse/frontend-mentor-product-preview-card-component)
-- Live Site URL: [live site URL](https://your-live-site-url.com)
+- Live Site URL: [live site URL](https://product-preview.rugh.us/)
 
 ## My process
 
